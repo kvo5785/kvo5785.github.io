@@ -15,8 +15,8 @@ My GitHub page is http://github.com/kvo5785.
 
 * Lab 7 
 
-    Lab 7: I chose lab number 7 as one of my favorites for two main reasons, the application and the procedure. Lab 7's application was something that I found very interesting because it was an issue that I was dealing with prior to the lab, as my current apartment complex has a major issue with parking. The procedure for the lab was also a new concept for me. This made it all the more rewarding when I the code finally compile. 
+    I chose lab number 7 as one of my favorites for two main reasons, the application and the procedure. Lab 7's application was something that I found very interesting because it was an issue that I was dealing with prior to the lab, as my current apartment complex has a major issue with parking. The procedure for the lab was also a new concept for me. This made it all the more rewarding when I the code finally compile. 
 
 * Lab 12 
 
-    Lab 12: Lab 12 was my favorite lab of all as it was a the culmination of all the work we had done in previous labs. I felt like everything was finally clicking and I was beginning to understand computer science for the first time since we started. It was also the closest we got to outputting an image. 
+    Lab 12 was my favorite lab of all as it was a the culmination of all the work we had done in previous labs. I felt like everything was finally clicking and I was beginning to understand computer science for the first time since we started. It was also the closest we got to outputting an image. 
